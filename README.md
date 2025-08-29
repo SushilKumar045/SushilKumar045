@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm passionate about Artificial Intelligence, Robo
 - Figuring things out from uncertain world
 
 ## 📫 How to Reach Me
-- **LinkedIn:** [Sushil Kumar]([https://www.linkedin.com/in/](https://www.linkedin.com/in/sushil-kumar-jagrawal/))
+- **LinkedIn:** [Sushil Kumar](https://www.linkedin.com/in/sushil-kumar-jagrawal/)
 
 ## 🏆 Achievements
 - Qualified Gate DA 2025
